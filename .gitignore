@@ -1,0 +1,5 @@
+.DS*
+*.old
+*.cache
+*.log
+*.lck
